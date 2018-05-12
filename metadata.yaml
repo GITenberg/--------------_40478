@@ -1,0 +1,31 @@
+_repo: '--------------_40478'
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40478-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anninos, Bampes
+    aliases:
+    - Anninos, Ch. (Charalampos)
+    - Άννινος, Χαράλαμπος
+    - Anninos, Charalampos
+    birthdate: 1852
+    deathdate: 1934
+    gutenberg_agent_id: '40652'
+    url: http://www.gutenberg.org/2009/agents/40652
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A7%CE%B1%CF%81%CE%AC%CE%BB%CE%B1%CE%BC%CF%80%CE%BF%CF%82_%CE%86%CE%BD%CE%BD%CE%B9%CE%BD%CE%BF%CF%82
+description: ''
+gutenberg_issued: '2012-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40478'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek literature, Modern'
+title: Αττικαί ημέραι
+url: http://www.gutenberg.org/ebooks/40478
